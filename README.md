@@ -1,4 +1,4 @@
-# Java-Platforme
+# Java-Platformer
 Basic two-player platform game
 - Coded in Java using Eclipse IDE
 - Completed as part of a Non-Exam Assessment (NEA) for A-levels
